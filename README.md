@@ -1,5 +1,5 @@
 
-<h4 align="center">Software engineer with a great passion toward development, algorithms, and machine learning.</h4>
+<h4 align="center">Software engineer </h4>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasnim0tantawi&show_icons=true&locale=en&layout=compact" alt="tasnim" /></p>
 
