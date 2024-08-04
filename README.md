@@ -41,12 +41,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/cs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
@@ -81,53 +75,12 @@
 
 ---
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/[your-bmc-id]">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Blogs posts:</h3>
-<ul>
-  <li>
-    <a href="https://medium.com/@[your-medium-id]/[post-title-1]">Post Title 1</a>
-  </li>
-  <li>
-    <a href="https://medium.com/@[your-medium-id]/[post-title-2]">Post Title 2</a>
-  </li>
-</ul>
-
----
-
-<h3 align="left">Projects:</h3>
-<ul>
-  <li>
-    <a href="https://github.com/tasnim0tantawi/[project-name-1]">Project Name 1</a>
-  </li>
-  <li>
-    <a href="https://github.com/tasnim0tantawi/[project-name-2]">Project Name 2</a>
-  </li>
-</ul>
-
----
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/[your-linkedin-id]" target="blank">
+  <a href="https://linkedin.com/in/tasnim-tantawy]" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="[your-linkedin-id]" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/[your-stackoverflow-id]" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="[your-stackoverflow-id]" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/[your-twitter-handle]" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="[your-twitter-handle]" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@[your-medium-id]" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="[your-medium-id]" height="30" width="40" />
-  </a>
+
 </p>
 
 ---
