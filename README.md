@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Tasnim Tantawi</h1>
-<h3 align="center">A passionate software engineer from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Tasnim</h1>
+<h3 align="center">A passionate software engineer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tasnim0tantawi&label=Profile%20views&color=0e75b6&style=flat" alt="tasnim0tantawi" />
