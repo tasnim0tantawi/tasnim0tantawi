@@ -11,21 +11,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin-id]" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="[your-linkedin-id]" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/[your-stackoverflow-id]" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" alt="[your-stackoverflow-id]" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/[your-twitter-handle]" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="[your-twitter-handle]" height="30" width="40" />
-  </a>
-  <a href="https://medium.com/@[your-medium-id]" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" alt="[your-medium-id]" height="30" width="40" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tasnim0tantawi&show_icons=true&locale=en" alt="tasnim0tantawi" />
 </p>
 
