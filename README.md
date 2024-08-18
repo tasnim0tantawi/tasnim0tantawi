@@ -4,13 +4,12 @@
 </h1>
 
 <h3 align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5F8BEC&center=true&random=true&width=435&lines=A+Software+Engineer;A+Backend+Developer+;An+Artist" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5F8BEC&center=true&random=true&width=435&lines=A+Passionate+Software+Engineer;A+Backend+Developer+;An+Artist" alt="Typing SVG" /></a>
   </h3>
 
 
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tasnim0tantawi&label=Profile%20views&color=E852AF&style=for-the-badge" alt="Tasnim" /> 
+
 ---
 
 
