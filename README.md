@@ -1,9 +1,9 @@
 
 
-<h1 align ="center">
-<a href="https://github.com/tasnim0tantawi"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=10000000000000000000000&color=E852AF&center=true&random=false&width=435&lines=I'm+Tasnim" alt="Typing SVG" /></a>
-</h1>
+$${\color{#5F8BEC} \huge \text{It's Tasnim}
+ }$$
 
+ <br>
 <h3 align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5F8BEC&center=true&random=true&width=435&lines=A+Passionate+Software+Engineer;A+Backend+Developer+;An+Artist" alt="Typing SVG" /></a>
 </h3>
