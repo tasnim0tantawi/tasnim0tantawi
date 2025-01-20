@@ -13,13 +13,8 @@ $${\color{#5F8BEC} \huge \text{It's Tasnim}
 
 ---
 
-<div align=center>
-  <div align=left>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tasnim0tantawi&theme=react&border=61dafb&hide_border=true" alt="tasnim0tantawi" />
-    </a>
-  </div>
-    <div align=left>
+
+   <div align=left>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=tasnim0tantawi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
