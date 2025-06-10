@@ -1,7 +1,5 @@
 
-
-$${\color{#5F8BEC} \huge \text{It's Tasnim}
- }$$
+$${\color{#5F8BEC} \huge \text{It's Tasnim}}$$
 
  <br>
 <h3 align="center">
